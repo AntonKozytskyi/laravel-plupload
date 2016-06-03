@@ -1,0 +1,22 @@
+{
+    "name": "AntonKozytskyi/laravel-plupload",
+    "description": "Plupload package for Laravel 5.0",
+    "keywords": ["laravel", "plupload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Linh Tran",
+            "email": "AntonKozytskyi.w0w@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AntonKozytskyi\\LaravelPlupload\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
